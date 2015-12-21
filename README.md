@@ -1,7 +1,7 @@
 Zebkit - Meets JAVA
 ==============================================
 
-![Zebkit](Gallery/Zebkit and GWT.png)
+![Zebkit](Gallery/Zebkit and GWT.PNG)
 
 
 ## Main purpose of the project:
